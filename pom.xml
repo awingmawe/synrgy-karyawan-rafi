@@ -14,7 +14,7 @@
 	<name>grab</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>11</java.version>
 		<oauth2.version>2.0.14.RELEASE</oauth2.version>
 		<jwt.version>1.0.9.RELEASE</jwt.version>
 	</properties>
